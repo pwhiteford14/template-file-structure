@@ -1,0 +1,22 @@
+{
+  "name": "template-file-structure",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwhiteford14/template-file-structure.git"
+  },
+  "author": "Parker Whiteford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwhiteford14/template-file-structure/issues"
+  },
+  "homepage": "https://github.com/pwhiteford14/template-file-structure#readme",
+  "dependencies": {
+    "eslint": "^5.15.1"
+  }
+}
